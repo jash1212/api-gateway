@@ -49,8 +49,8 @@ The gateway acts as a protective layer between clients and backend APIs.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd abuse-aware-api-gateway
+git clone https://github.com/jash1212/api-gateway.git
+cd api-gateway
 ```
 
 ### 2️⃣ Install dependencies
@@ -111,7 +111,7 @@ You can tune:
 ## 🚀 Running Locally
 
 ```bash
-npm start
+npm index.js
 ```
 
 Server runs at:
